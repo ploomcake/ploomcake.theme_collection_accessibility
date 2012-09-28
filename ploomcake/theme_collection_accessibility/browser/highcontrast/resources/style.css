@@ -1,0 +1,254 @@
+/*
+theme variants
+*/
+
+.ploomcake-high-contrast #portal-columns {
+    background-color:black;
+    color:white !important;
+}
+
+.ploomcake-high-contrast h1.documentFirstHeading{
+    color: yellow !important;
+}
+
+.ploomcake-high-contrast h2,
+.ploomcake-high-contrast h3, 
+.ploomcake-high-contrast h4, 
+.ploomcake-high-contrast h5, 
+.ploomcake-high-contrast h6{
+    color: orange !important;
+}
+
+.ploomcake-high-contrast #content a:link, 
+.ploomcake-high-contrast #content a, 
+.ploomcake-high-contrast #content a:visited, 
+.ploomcake-high-contrast #content a:hover{
+    color: yellow !important;
+
+}
+
+.ploomcake-high-contrast #content .pullquote{
+    color: yellow !important;
+}
+
+.ploomcake-high-contrast #content .documentDescription,
+.ploomcake-high-contrast #content #description{
+    color: #EEEEEE;
+
+}
+
+/*-----*/
+
+.ploomcake-high-contrast #portal-colophon,
+.ploomcake-high-contrast #visual-portal-wrapper-container,
+.ploomcake-high-contrast body {
+    background: black;
+}
+
+.ploomcake-high-contrast #content a:link,
+.ploomcake-high-contrast #content a,
+.ploomcake-high-contrast #content a:visited,
+.ploomcake-high-contrast #portal-columns dl.portlet dt.portletHeader a,
+.ploomcake-high-contrast #portal-breadcrumbs a {
+    color: blue !important;
+    text-decoration: underline;
+}
+.ploomcake-high-contrast #portal-columns dl.portlet dt.portletHeader{
+    color: white;
+}
+.ploomcake-high-contrast #content a:hover,
+.ploomcake-high-contrast #portal-columns dl.portlet dt.portletHeader a:hover,
+.ploomcake-high-contrast .flowsearchform .flowsearchtabs a:hover{
+    color: yellow !important;
+}
+
+
+.ploomcake-high-contrast #portal-siteactions,
+.ploomcake-high-contrast #portal-personaltools,
+.ploomcake-high-contrast #portal-languageselector {
+    border: 1px solid #463C3C;
+    border-top: 0;
+/*    font-size: 11px;*/
+    background: #ffffff !important;
+}
+.ploomcake-high-contrast .documentByLine{
+    color: yellow !important;
+}
+.ploomcake-high-contrast .searchSection label,
+.ploomcake-high-contrast .searchSection label:hover{
+    color:white;
+}
+
+.ploomcake-high-contrast #portal-siteactions a{
+    color: blue !important;
+}
+
+.ploomcake-high-contrast.ploomcake-big-fonts #siteaction-bigfonts a,
+.ploomcake-high-contrast #portal-siteactions #siteaction-highcontrast a{
+    color: black !important;
+}
+
+
+
+.ploomcake-high-contrast #portal-siteactions a{
+    color: blue !important;
+}
+
+.ploomcake-high-contrast #portal-siteactions a:hover{
+    color: #333 !important;
+}
+
+
+.ploomcake-high-contrast #portal-languageselector a,
+.ploomcake-high-contrast #portal-languageselector a:hover,
+.ploomcake-high-contrast #portal-personaltools a,
+.ploomcake-high-contrast #portal-personaltools a:hover {
+    color: #333;
+    background: #ffffff !important;
+}
+
+.ploomcake-high-contrast #portal-languageselector dd,
+.ploomcake-high-contrast #portal-personaltools dd {
+/*    right: auto;*/
+    border: 1px solid black;
+    background: #ffffff !important;
+}
+
+
+.ploomcake-high-contrast #portal-searchbox {
+    border: 1px solid yellow;
+}
+
+.ploomcake-high-contrast #portal-searchbox .searchButton,
+.ploomcake-high-contrast .globalnav-wrapper,
+.ploomcake-high-contrast .footer-container {
+    background:white;
+
+}
+
+.ploomcake-high-contrast #portal-columns dl.portlet dt.portletHeader,
+.ploomcake-high-contrast #portal-breadcrumbs {
+    background:black;
+    filter:none;
+    color:yellow;
+}
+
+.ploomcake-high-contrast .panes > div{
+    background-color: black;
+}
+
+.ploomcake-high-contrast .tabs a.current{
+    background-color:blue;
+    border-bottom:1px solid black !important;
+}
+.ploomcake-high-contrast .tabs a{
+    background-color: #333;
+}
+.ploomcake-high-contrast .tabs a:hover {
+    background-color: #333;
+}
+
+.ploomcake-high-contrast #portal-searchbox .searchButton {
+    background: #333333; /* Old browsers */
+    background: -moz-linear-gradient(top,  #333333 0%, #000000 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#333333), color-stop(100%,#000000)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #333333 0%,#000000 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #333333 0%,#000000 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #333333 0%,#000000 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #333333 0%,#000000 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#333333', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+
+
+    border: medium none;
+    border-radius: 0 4px 4px 0;
+    color: #F4CE2E;
+    margin: 0;
+}
+
+.ploomcake-high-contrast .globalnav-wrapper {
+    border-bottom: 5px solid #F4CE2E !important;
+    border-top: 5px solid #F4CE2E !important;
+}
+
+
+.ploomcake-high-contrast #portal-globalnav .selected a,
+.ploomcake-high-contrast #portal-globalnav a:hover,
+.ploomcake-high-contrast #portal-globalnav li a,
+.ploomcake-high-contrast #portal-globalnav .selected a:hover {
+    color: #000000 !important;
+    text-shadow: none !important;
+}
+
+.ploomcake-high-contrast #portal-columns{
+    box-shadow: none;
+}
+.ploomcake-high-contrast .globalnav-wrapper{
+    box-shadow: none;
+}
+.ploomcake-high-contrast #portlets-in-header{
+    box-shadow: none;
+}
+.ploomcake-high-contrast #portal-globalnav li.selected{
+    background-color: #F4CE2E;
+}
+.ploomcake-high-contrast #portal-globalnav li a{
+     background-image: none;
+}
+
+.ploomcake-high-contrast .formHelp,
+.ploomcake-high-contrast .discreet{
+    color:white !important;
+}
+.ploomcake-high-contrast .portalMessage{
+    background-color: black !important;
+}
+
+.ploomcake-high-contrast .qq-upload-button{
+    background-color: blue;
+}
+.ploomcake-high-contrast table.listing tbody tr.odd td,
+.ploomcake-high-contrast table.listing tbody tr.odd{
+    background:none !important;
+}
+
+.ploomcake-high-contrast .ploneCalendar .weekdays th{
+     background-color: transparent;
+}
+
+@media screen and (max-width: 650px) {
+    .ploomcake-high-contrast #portal-globalnav li:hover,
+    .ploomcake-high-contrast #portal-globalnav li {
+        background-image:none !important;
+        background-color:white !important;
+        border-radius: 10px;
+    }
+    .ploomcake-high-contrast .globalnav-wrapper{
+        border: none  !important;
+    }
+    .ploomcake-high-contrast .globalnav-wrapper{
+        background:none;
+    }
+    .ploomcake-high-contrast #portal-globalnav li.selected,
+    .ploomcake-high-contrast #portal-globalnav li:hover,
+    .ploomcake-high-contrast #portal-globalnav li.selected:hover{
+        background-color:#F4CE2E !important;
+    }
+
+    .ploomcake-high-contrast #mobile_tabs a{
+        background-color:white !important;
+        color:black;
+    } 
+    .ploomcake-high-contrast #mobile_tabs .tab-portal-columns-columns.current a{
+        color:black;
+    }
+
+    .ploomcake-high-contrast #mobile_tabs .current a{
+        background-color:white !important;
+        background-color:#F4CE2E !important;
+    } 
+
+    .ploomcake-high-contrast #portal-personaltools-wrapper {
+        background-color:transparent;
+    }
+}
+

@@ -1,0 +1,9 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    i18n_domain="ploomcake.theme_collection_accessibility">
+
+  <include package=".highcontrast" />
+  <include package=".bigfonts" />
+
+</configure>

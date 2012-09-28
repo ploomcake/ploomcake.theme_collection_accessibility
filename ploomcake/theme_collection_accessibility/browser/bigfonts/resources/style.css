@@ -1,0 +1,22 @@
+/*
+theme variants
+*/
+
+.ploomcake-big-fonts{
+    font-size: 130%;
+}
+
+
+@media screen and (max-width: 650px) {
+
+    .ploomcake-big-fonts{
+        font-size: 140%;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+    .ploomcake-big-fonts{
+        font-size: 150%;
+    }
+}
